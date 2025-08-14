@@ -1,6 +1,6 @@
-# 2025 年 08 月 13 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅
+# 2025 年 08 月 14 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅
 
-> 📅 最新更新：2025 年 08 月 13 日，提供美国 / 香港 / 日本 等高质量免费节点，最高速率达 20.92 MB/s（共享，多人使用可能波动）
+> 📅 最新更新：2025 年 08 月 14 日，提供美国 / 香港 / 日本 等高质量免费节点，最高速率达 20.92 MB/s（共享，多人使用可能波动）
 ---
 
 ## 一、🎁 每日更新的免费订阅服务
@@ -22,7 +22,31 @@
 
 ---
 
-## 三、推荐升级 —— 稳联云付费机场服务
+## 三、📥 免费订阅链接
+
+```code
+# 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
+# V2ray订阅链接：
+
+https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=cce2f0f5305420ed821f60d1f75edb90
+https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=9586aed3697faf24cac1f487d22f96b1
+https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=c61c2f6d8370f7b129ba881bd54d76bf
+https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=f6f668c856202e2e65f2025266e78713
+https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=5f0c8a746084ebbcc4474254d532ff80
+https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=fc4edb1f8eb9785a86b9f3bc263a2338
+https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=cc8cc8956dab2cc4ecb44ecfc6f96503
+https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=75a2965bfa75b68fd5e739965e45bbe8
+https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=34b75f09c7943db413da1c0bdb76e736
+https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=1704ffb3b644da6392701d3a74df41c6
+https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=f9ed09cee3e128b55a8e87d6f1be1c21
+https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=3e2689b2c3388dd9822a2ef791f8a950
+https://vip02.stableconnect.cloud/api/v1/client/subscribe?token=3086e2e77428276ff1cadd52effb20c6
+
+```
+
+---
+
+## 四、推荐升级 —— 稳联云付费机场服务
 
 为了获得更高性能、更稳定、更安全的网络连接，强烈推荐升级使用**稳联云机场**专业付费服务。稳联云自 2022 年上线以来，一直以速度快、覆盖广、安全可靠著称：
 
@@ -53,7 +77,7 @@
 
 ---
 
-## 四、📌 推荐流程（打造最优使用体验）
+## 五、📌 推荐流程（打造最优使用体验）
 
 1. 使用我们的 **免费节点订阅** 体验科学上网—一键导入 Clash/V2Ray 客户端；
 2. 初步评估性能后，如果对速度与稳定性需求较高，推荐升级至 **稳联云付费服务**；
@@ -62,7 +86,7 @@
 
 ---
 
-## 五、⛳ 为什么选择稳联云？
+## 六、⛳ 为什么选择稳联云？
 
 - 行业经验成熟，自 2022 年投入运营，服务稳定可靠；
 - 高兼容性协议与客户端部署支持，简易导入配置；
@@ -72,29 +96,6 @@
 
 ---
 
-## 六、📥 免费订阅链接（示例）
-
-```code
-# 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
-# V2ray订阅链接：
-
-https://serv011.20250710.top/api/v1/client/subscribe?token=cce2f0f5305420ed821f60d1f75edb90
-https://serv011.20250710.top/api/v1/client/subscribe?token=9586aed3697faf24cac1f487d22f96b1
-https://serv011.20250710.top/api/v1/client/subscribe?token=c61c2f6d8370f7b129ba881bd54d76bf
-https://serv011.20250710.top/api/v1/client/subscribe?token=f6f668c856202e2e65f2025266e78713
-https://serv011.20250710.top/api/v1/client/subscribe?token=5f0c8a746084ebbcc4474254d532ff80
-https://serv011.20250710.top/api/v1/client/subscribe?token=fc4edb1f8eb9785a86b9f3bc263a2338
-https://serv011.20250710.top/api/v1/client/subscribe?token=cc8cc8956dab2cc4ecb44ecfc6f96503
-https://serv011.20250710.top/api/v1/client/subscribe?token=75a2965bfa75b68fd5e739965e45bbe8
-https://serv011.20250710.top/api/v1/client/subscribe?token=34b75f09c7943db413da1c0bdb76e736
-https://serv011.20250710.top/api/v1/client/subscribe?token=1704ffb3b644da6392701d3a74df41c6
-https://serv011.20250710.top/api/v1/client/subscribe?token=f9ed09cee3e128b55a8e87d6f1be1c21
-https://serv011.20250710.top/api/v1/client/subscribe?token=3e2689b2c3388dd9822a2ef791f8a950
-https://serv011.20250710.top/api/v1/client/subscribe?token=3086e2e77428276ff1cadd52effb20c6
-
-```
-
----
 
 ## 七、结语与建议
 
