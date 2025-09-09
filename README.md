@@ -1,6 +1,6 @@
-# 2025 年 09 月 08 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅
+# 2025 年 09 月 09 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅
 
-> 📅 最新更新：2025 年 09 月 08 日，提供美国 / 香港 / 日本 等高质量免费节点，最高速率达 20.92 MB/s（共享，多人使用可能波动）
+> 📅 最新更新：2025 年 09 月 09 日，提供美国 / 香港 / 日本 等高质量免费节点，最高速率达 20.92 MB/s（共享，多人使用可能波动）
 ---
 
 ## 一、🎁 每日更新的免费订阅服务
@@ -31,7 +31,7 @@
 https://vip10.20250812.xyz/api/v1/client/subscribe?token=c26a3bc4fca7d3e9524f90960b344f52
 https://vip10.20250812.xyz/api/v1/client/subscribe?token=a0b0d28d1fce5464074553e53bc871fa
 https://vip10.20250812.xyz/api/v1/client/subscribe?token=5eda8624ec79a6346a9ea7063daadf76
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=241ff73269b489c60b6ec6e57d32c58d
+https://vip10.20250812.xyz/api/v1/client/subscribe?token=81c0d5d7c560ec06de525bbed8c2662a
 https://vip10.20250812.xyz/api/v1/client/subscribe?token=4d495d1c5860e54f9b0be3b0752db084
 https://vip10.20250812.xyz/api/v1/client/subscribe?token=17efa93d4cc71fd63b465413e70f2121
 https://vip10.20250812.xyz/api/v1/client/subscribe?token=a48ccd62f54618391256ce5078d9cdca
@@ -40,7 +40,7 @@ https://vip10.20250812.xyz/api/v1/client/subscribe?token=e23c99db32d5b2a9e67b02e
 https://vip10.20250812.xyz/api/v1/client/subscribe?token=118bd8f8e7f481a89b879b53d2c0a3b4
 https://vip10.20250812.xyz/api/v1/client/subscribe?token=ea6c4a1426314b41e22b625964267624
 https://vip10.20250812.xyz/api/v1/client/subscribe?token=8cb05d76ab1a1840900a1603ac49528f
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=5e8c1076d95630953d203c3563371162
+https://vip10.20250812.xyz/api/v1/client/subscribe?token=78bb74636e0d6a411024c903ef56e8b0
 
 ```
 
