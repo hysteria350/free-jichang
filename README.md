@@ -28,27 +28,27 @@
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=077c850d7b4c982ccb5c6273776ec204
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=a22de74249abc87791c29dcb498508b6
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=b3f6387e4eb181ccd03a507e8e226967
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=a9e6fcfb0f5b9fd0d0908a10c024948d
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=3cc11fb566959e91f34d1218f38f7789
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=dd9e19be7a6f3cd2ca5bccfe41f51a3c
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=233c88cde1225e2bad3673149a050839
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=1a6c3eb8968704470b7ad770204f49d9
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=9566574da47931a8ef4a95d63a86a94c
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=9247900cd1d823acb81262bffa0ed08e
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=38476b8b94d96d281f7b07fb71b838d2
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=3185ae781ff678f153a88192ecb25786
-https://vip10.20250812.xyz/api/v1/client/subscribe?token=6d2679466d25e460d2b0de2c59191f6d
+https://vip12.20250812.xyz/api/v1/client/subscribe?token=077c850d7b4c982ccb5c6273776ec204
+https://vip12.20250812.xyz/api/v1/client/subscribe?token=a22de74249abc87791c29dcb498508b6
+https://vip12.20250812.xyz/api/v1/client/subscribe?token=b3f6387e4eb181ccd03a507e8e226967
+https://vip12.20250812.xyz/api/v1/client/subscribe?token=a9e6fcfb0f5b9fd0d0908a10c024948d
+https://vip12.20250812.xyz/api/v1/client/subscribe?token=3cc11fb566959e91f34d1218f38f7789
+https://vip12.20250812.xyz/api/v1/client/subscribe?token=dd9e19be7a6f3cd2ca5bccfe41f51a3c
+https://vip12.20250812.xyz/api/v1/client/subscribe?token=6d2fee94949844b141ce4bde912ee99e
+https://vip12.20250812.xyz/api/v1/client/subscribe?token=504f89ddde91ca3e8c89cbd3ee6c9920
+https://vip12.20250812.xyz/api/v1/client/subscribe?token=9566574da47931a8ef4a95d63a86a94c
+https://vip12.20250812.xyz/api/v1/client/subscribe?token=9247900cd1d823acb81262bffa0ed08e
+https://vip12.20250812.xyz/api/v1/client/subscribe?token=38476b8b94d96d281f7b07fb71b838d2
+https://vip12.20250812.xyz/api/v1/client/subscribe?token=3185ae781ff678f153a88192ecb25786
+https://vip12.20250812.xyz/api/v1/client/subscribe?token=6d2679466d25e460d2b0de2c59191f6d
 
 ```
 
 ---
 
-## 四、推荐升级 —— [稳联云付费机场服务](https://shortlink.20250812.xyz/1)
+## 四、推荐升级 —— [稳联云付费机场服务](https://shortlink3.20250812.xyz/1)
 
-为了获得更高性能、更稳定、更安全的网络连接，强烈推荐升级使用[**稳联云机场**](https://shortlink.20250812.xyz/1)专业付费服务。[稳联云](https://shortlink.20250812.xyz/1)自 2022 年上线以来，一直以速度快、覆盖广、安全可靠著称：
+为了获得更高性能、更稳定、更安全的网络连接，强烈推荐升级使用[**稳联云机场**](https://shortlink3.20250812.xyz/1)专业付费服务。[稳联云](https://shortlink3.20250812.xyz/1)自 2022 年上线以来，一直以速度快、覆盖广、安全可靠著称：
 
 ### 🌍 服务特点
 
@@ -80,13 +80,13 @@ https://vip10.20250812.xyz/api/v1/client/subscribe?token=6d2679466d25e460d2b0de2
 ## 五、📌 推荐流程（打造最优使用体验）
 
 1. 使用我们的 **免费节点订阅** 体验科学上网—一键导入 Clash/V2Ray 客户端；
-2. 初步评估性能后，如果对速度与稳定性需求较高，推荐升级至 [**稳联云付费服务**](https://shortlink.20250812.xyz/1)；
+2. 初步评估性能后，如果对速度与稳定性需求较高，推荐升级至 [**稳联云付费服务**](https://shortlink3.20250812.xyz/1)；
 3. 根据个人需求选择合适套餐（如观看流媒体、办公、科研、高峰游戏等场景）；
 4. 新用户可利用免费试用机会及邀请机制获得优惠或返佣。
 
 ---
 
-## 六、⛳ 为什么选择[稳联云](https://shortlink.20250812.xyz/1)？
+## 六、⛳ 为什么选择[稳联云](https://shortlink3.20250812.xyz/1)？
 
 - 行业经验成熟，自 2022 年投入运营，服务稳定可靠；
 - 高兼容性协议与客户端部署支持，简易导入配置；
@@ -99,6 +99,6 @@ https://vip10.20250812.xyz/api/v1/client/subscribe?token=6d2679466d25e460d2b0de2
 
 ## 七、结语与建议
 
-通过免费节点服务，您可以快速体验 V2ray / Trojan 等协议的基本速度和使用方式。如果您对连接质量、稳定性和服务体验有更高要求，[稳联云](https://shortlink.20250812.xyz/1)提供的付费服务将成为您的理想升级选择。
+通过免费节点服务，您可以快速体验 V2ray / Trojan 等协议的基本速度和使用方式。如果您对连接质量、稳定性和服务体验有更高要求，[稳联云](https://shortlink3.20250812.xyz/1)提供的付费服务将成为您的理想升级选择。
 
 ✨ **即刻订阅免费节点体验→若满意，点此升级稳联云尊享VIP加速服务**。
