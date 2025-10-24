@@ -1,6 +1,6 @@
-# 2025 年 10 月 23 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅
+# 2025 年 10 月 24 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅
 
-> 📅 最新更新：2025 年 10 月 23 日，提供美国 / 香港 / 日本 等高质量免费节点，最高速率达 20.92 MB/s（共享，多人使用可能波动）
+> 📅 最新更新：2025 年 10 月 24 日，提供美国 / 香港 / 日本 等高质量免费节点，最高速率达 20.92 MB/s（共享，多人使用可能波动）
 ---
 
 ## 一、🎁 每日更新的免费订阅服务
@@ -28,19 +28,19 @@
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://pub04.20251020a.top/api/v1/client/subscribe?token=fdfce8f99356a44adb25124ff86cb57c
+https://pub04.20251020a.top/api/v1/client/subscribe?token=a3bcd0ffb2a0bbdb3d47dceeca55d121
 https://pub04.20251020a.top/api/v1/client/subscribe?token=1991c11d343ec65ae353f17115ada1a1
 https://pub04.20251020a.top/api/v1/client/subscribe?token=8d12a394cf5958e63dd8a235af22b34a
-https://pub04.20251020a.top/api/v1/client/subscribe?token=2b5cad624d941f2af14879d567f14d8a
+https://pub04.20251020a.top/api/v1/client/subscribe?token=f717890a6842827987bfee7af7ea1705
 https://pub04.20251020a.top/api/v1/client/subscribe?token=0dd5f3d2943c9cf9a3521f2a17a4461a
-https://pub04.20251020a.top/api/v1/client/subscribe?token=76d55bf72015784ed2148a049e916210
+https://pub04.20251020a.top/api/v1/client/subscribe?token=fb99ce53b44ee399564c446427e62d15
 https://pub04.20251020a.top/api/v1/client/subscribe?token=6702cee6824cffd0c4f6a6b9a87b0ce9
-https://pub04.20251020a.top/api/v1/client/subscribe?token=c0c00b8a7deb31d48a7beb4e26e45425
-https://pub04.20251020a.top/api/v1/client/subscribe?token=06fc5ff902cccd3142b59bf35948c2e8
-https://pub04.20251020a.top/api/v1/client/subscribe?token=07aa3dd3de369909d0ebb431b2858928
-https://pub04.20251020a.top/api/v1/client/subscribe?token=11eb96dfb6ef78618fd15135ccfc0b45
-https://pub04.20251020a.top/api/v1/client/subscribe?token=c69db7146fcfcfb6a34303dfba15de94
-https://pub04.20251020a.top/api/v1/client/subscribe?token=748e092010b6bea5f054aa32bc39a1d6
+https://pub04.20251020a.top/api/v1/client/subscribe?token=15630d6d17134a71f7eb16423facf3bf
+https://pub04.20251020a.top/api/v1/client/subscribe?token=56164caad2e64f1f760344c5bd1d9c05
+https://pub04.20251020a.top/api/v1/client/subscribe?token=abb70049cba16c66b14091a873a86938
+https://pub04.20251020a.top/api/v1/client/subscribe?token=61b6b5dd26b05d7153934cf2c49aa20f
+https://pub04.20251020a.top/api/v1/client/subscribe?token=b3042efbdaa62c702ea03767ed7b631d
+https://pub04.20251020a.top/api/v1/client/subscribe?token=06d18137909ea8d0577786173bd4bd04
 
 ```
 
