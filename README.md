@@ -28,29 +28,29 @@
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://pub04.20251020a.top/api/v1/client/subscribe?token=fb111199bee575f63117fcd820d083f5
-https://pub04.20251020a.top/api/v1/client/subscribe?token=adf82e9bbc6744f329c06ffa4b8bfe95
-https://pub04.20251020a.top/api/v1/client/subscribe?token=6592d6118e739b76cb80701d834037a7
-https://pub04.20251020a.top/api/v1/client/subscribe?token=e4c30dfed777fb8499f0288e5e10de04
-https://pub04.20251020a.top/api/v1/client/subscribe?token=15ce87c7aab0a95e76957f4bee1b198e
-https://pub04.20251020a.top/api/v1/client/subscribe?token=830563fe7e4fbc5abbd894719cb5874f
-https://pub04.20251020a.top/api/v1/client/subscribe?token=c9e5edeedf39cf872bf1f4a5deee1018
-https://pub04.20251020a.top/api/v1/client/subscribe?token=ea0cef6f536b57d5419eb3fc003ba644
-https://pub04.20251020a.top/api/v1/client/subscribe?token=d68cf77f8a58e0c9d8dc3d3a57193b1a
-https://pub04.20251020a.top/api/v1/client/subscribe?token=2779930d91a564e4a5f9a78cd42766ad
-https://pub04.20251020a.top/api/v1/client/subscribe?token=c24530bac65d7897ffe4df0830aa42f5
-https://pub04.20251020a.top/api/v1/client/subscribe?token=d2dd34312545f1690de1fa9f9faa169d
-https://pub04.20251020a.top/api/v1/client/subscribe?token=5a24f49505e8faddc892254a42905fe4
-https://pub04.20251020a.top/api/v1/client/subscribe?token=9e301dd427ffc0a87bc4ff43835ed22c
-https://pub04.20251020a.top/api/v1/client/subscribe?token=dc4a9de33a2cc89f147d613196f52b50
+https://pub05.20251020a.top/api/v1/client/subscribe?token=fb111199bee575f63117fcd820d083f5
+https://pub05.20251020a.top/api/v1/client/subscribe?token=adf82e9bbc6744f329c06ffa4b8bfe95
+https://pub05.20251020a.top/api/v1/client/subscribe?token=6592d6118e739b76cb80701d834037a7
+https://pub05.20251020a.top/api/v1/client/subscribe?token=e4c30dfed777fb8499f0288e5e10de04
+https://pub05.20251020a.top/api/v1/client/subscribe?token=15ce87c7aab0a95e76957f4bee1b198e
+https://pub05.20251020a.top/api/v1/client/subscribe?token=830563fe7e4fbc5abbd894719cb5874f
+https://pub05.20251020a.top/api/v1/client/subscribe?token=c9e5edeedf39cf872bf1f4a5deee1018
+https://pub05.20251020a.top/api/v1/client/subscribe?token=ea0cef6f536b57d5419eb3fc003ba644
+https://pub05.20251020a.top/api/v1/client/subscribe?token=d68cf77f8a58e0c9d8dc3d3a57193b1a
+https://pub05.20251020a.top/api/v1/client/subscribe?token=2779930d91a564e4a5f9a78cd42766ad
+https://pub05.20251020a.top/api/v1/client/subscribe?token=c24530bac65d7897ffe4df0830aa42f5
+https://pub05.20251020a.top/api/v1/client/subscribe?token=d2dd34312545f1690de1fa9f9faa169d
+https://pub05.20251020a.top/api/v1/client/subscribe?token=5a24f49505e8faddc892254a42905fe4
+https://pub05.20251020a.top/api/v1/client/subscribe?token=9e301dd427ffc0a87bc4ff43835ed22c
+https://pub05.20251020a.top/api/v1/client/subscribe?token=dc4a9de33a2cc89f147d613196f52b50
 
 ```
 
 ---
 
-## 四、推荐升级 —— [稳联云付费机场服务](https://abc.20251020a.top/1)
+## 四、推荐升级 —— [稳联云付费机场服务](https://def.20251020a.top/1)
 
-为了获得更高性能、更稳定、更安全的网络连接，强烈推荐升级使用[**稳联云机场**](https://abc.20251020a.top/1)专业付费服务。[稳联云](https://abc.20251020a.top/1)自 2022 年上线以来，一直以速度快、覆盖广、安全可靠著称：
+为了获得更高性能、更稳定、更安全的网络连接，强烈推荐升级使用[**稳联云机场**](https://def.20251020a.top/1)专业付费服务。[稳联云](https://def.20251020a.top/1)自 2022 年上线以来，一直以速度快、覆盖广、安全可靠著称：
 
 ### 🌍 服务特点
 
@@ -82,12 +82,12 @@ https://pub04.20251020a.top/api/v1/client/subscribe?token=dc4a9de33a2cc89f147d61
 ## 五、📌 推荐流程（打造最优使用体验）
 
 1. 使用我们的 **免费节点订阅** 体验科学上网—一键导入 Clash/V2Ray 客户端；
-2. 初步评估性能后，如果对速度与稳定性需求较高，推荐升级至 [**稳联云付费服务**](https://abc.20251020a.top/1)；
+2. 初步评估性能后，如果对速度与稳定性需求较高，推荐升级至 [**稳联云付费服务**](https://def.20251020a.top/1)；
 3. 根据个人需求选择合适套餐（如观看流媒体、办公、科研、高峰游戏等场景）；
 
 ---
 
-## 六、⛳ 为什么选择[稳联云](https://abc.20251020a.top/1)？
+## 六、⛳ 为什么选择[稳联云](https://def.20251020a.top/1)？
 
 - 行业经验成熟，自 2022 年投入运营，服务稳定可靠；
 - 高兼容性协议与客户端部署支持，简易导入配置；
@@ -99,6 +99,6 @@ https://pub04.20251020a.top/api/v1/client/subscribe?token=dc4a9de33a2cc89f147d61
 
 ## 七、结语与建议
 
-通过免费节点服务，您可以快速体验 V2ray / Trojan 等协议的基本速度和使用方式。如果您对连接质量、稳定性和服务体验有更高要求，[稳联云](https://abc.20251020a.top/1)提供的付费服务将成为您的理想升级选择。
+通过免费节点服务，您可以快速体验 V2ray / Trojan 等协议的基本速度和使用方式。如果您对连接质量、稳定性和服务体验有更高要求，[稳联云](https://def.20251020a.top/1)提供的付费服务将成为您的理想升级选择。
 
-✨ **即刻订阅免费节点体验→若满意，[点此](https://abc.20251020a.top/1)升级稳联云尊享VIP加速服务**。
+✨ **即刻订阅免费节点体验→若满意，[点此](https://def.20251020a.top/1)升级稳联云尊享VIP加速服务**。
