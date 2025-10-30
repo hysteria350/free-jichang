@@ -30,7 +30,7 @@
 
 https://pub06.20251020a.top/api/v1/client/subscribe?token=2ecff3c6341e1021c931e5be7a4112f9
 https://pub06.20251020a.top/api/v1/client/subscribe?token=4a736945c7120c31e9cbc73488e145e8
-https://pub06.20251020a.top/api/v1/client/subscribe?token=3457364aaf3deabc255d52288ed940ab
+https://pub06.20251020a.top/api/v1/client/subscribe?token=aa43e76b4f52e53419a846825075f30a
 https://pub06.20251020a.top/api/v1/client/subscribe?token=52e0c459b93878d94cb808c1639cb65c
 https://pub06.20251020a.top/api/v1/client/subscribe?token=75f4e7717d54753ce48afb6fc9009a85
 https://pub06.20251020a.top/api/v1/client/subscribe?token=50e2b5b341e3b83cde17492469db9b3a
@@ -48,9 +48,9 @@ https://pub06.20251020a.top/api/v1/client/subscribe?token=59f48e625967a870a70b8c
 
 ---
 
-## 四、推荐升级 —— [稳联云付费机场服务](https://def.20251020a.top/1)
+## 四、推荐升级 —— [稳联云付费机场服务](https://ghi.20251020a.top/1)
 
-为了获得更高性能、更稳定、更安全的网络连接，强烈推荐升级使用[**稳联云机场**](https://def.20251020a.top/1)专业付费服务。[稳联云](https://def.20251020a.top/1)自 2022 年上线以来，一直以速度快、覆盖广、安全可靠著称：
+为了获得更高性能、更稳定、更安全的网络连接，强烈推荐升级使用[**稳联云机场**](https://ghi.20251020a.top/1)专业付费服务。[稳联云](https://ghi.20251020a.top/1)自 2022 年上线以来，一直以速度快、覆盖广、安全可靠著称：
 
 ### 🌍 服务特点
 
@@ -82,12 +82,12 @@ https://pub06.20251020a.top/api/v1/client/subscribe?token=59f48e625967a870a70b8c
 ## 五、📌 推荐流程（打造最优使用体验）
 
 1. 使用我们的 **免费节点订阅** 体验科学上网—一键导入 Clash/V2Ray 客户端；
-2. 初步评估性能后，如果对速度与稳定性需求较高，推荐升级至 [**稳联云付费服务**](https://def.20251020a.top/1)；
+2. 初步评估性能后，如果对速度与稳定性需求较高，推荐升级至 [**稳联云付费服务**](https://ghi.20251020a.top/1)；
 3. 根据个人需求选择合适套餐（如观看流媒体、办公、科研、高峰游戏等场景）；
 
 ---
 
-## 六、⛳ 为什么选择[稳联云](https://def.20251020a.top/1)？
+## 六、⛳ 为什么选择[稳联云](https://ghi.20251020a.top/1)？
 
 - 行业经验成熟，自 2022 年投入运营，服务稳定可靠；
 - 高兼容性协议与客户端部署支持，简易导入配置；
@@ -99,6 +99,6 @@ https://pub06.20251020a.top/api/v1/client/subscribe?token=59f48e625967a870a70b8c
 
 ## 七、结语与建议
 
-通过免费节点服务，您可以快速体验 V2ray / Trojan 等协议的基本速度和使用方式。如果您对连接质量、稳定性和服务体验有更高要求，[稳联云](https://def.20251020a.top/1)提供的付费服务将成为您的理想升级选择。
+通过免费节点服务，您可以快速体验 V2ray / Trojan 等协议的基本速度和使用方式。如果您对连接质量、稳定性和服务体验有更高要求，[稳联云](https://ghi.20251020a.top/1)提供的付费服务将成为您的理想升级选择。
 
-✨ **即刻订阅免费节点体验→若满意，[点此](https://def.20251020a.top/1)升级稳联云尊享VIP加速服务**。
+✨ **即刻订阅免费节点体验→若满意，[点此](https://ghi.20251020a.top/1)升级稳联云尊享VIP加速服务**。
