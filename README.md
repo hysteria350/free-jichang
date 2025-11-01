@@ -1,6 +1,6 @@
-# 2025 年 10 月 31 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅
+# 2025 年 11 月 01 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅
 
-> 📅 最新更新：2025 年 10 月 31 日，提供美国 / 香港 / 日本 等高质量免费节点，最高速率达 20.92 MB/s（共享，多人使用可能波动）
+> 📅 最新更新：2025 年 11 月 01 日，提供美国 / 香港 / 日本 等高质量免费节点，最高速率达 20.92 MB/s（共享，多人使用可能波动）
 ---
 
 ## 一、🎁 每日更新的免费订阅服务
@@ -28,9 +28,9 @@
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://pub06.20251020a.top/api/v1/client/subscribe?token=55639a7925a25de0d69f3bf41dc6bbfd
-https://pub06.20251020a.top/api/v1/client/subscribe?token=1c4fff4f67e07297b444fd9374cc0270
-https://pub06.20251020a.top/api/v1/client/subscribe?token=7cb59ee2e49d34f45ba51d2a339f4f2f
+https://pub06.20251020a.top/api/v1/client/subscribe?token=408e684565e4528f283a15911d61abf5
+https://pub06.20251020a.top/api/v1/client/subscribe?token=43776d35913bd9a0f58a81a41ab0ab2a
+https://pub06.20251020a.top/api/v1/client/subscribe?token=7016387e5931df3f01e36a42d89a0ebb
 https://pub06.20251020a.top/api/v1/client/subscribe?token=20fa024fea86463daa28837c11860608
 https://pub06.20251020a.top/api/v1/client/subscribe?token=145f2243ed93ed58609d89b6b3097c84
 https://pub06.20251020a.top/api/v1/client/subscribe?token=47b504409caa822eb0fdaee4350295d3
@@ -38,7 +38,7 @@ https://pub06.20251020a.top/api/v1/client/subscribe?token=e8b1bec27e51feba565f94
 https://pub06.20251020a.top/api/v1/client/subscribe?token=6ddff2d33dd5a7b05a75a05496e54996
 https://pub06.20251020a.top/api/v1/client/subscribe?token=42c24dd37f9657d2f18b90cdb5168b8f
 https://pub06.20251020a.top/api/v1/client/subscribe?token=6569e9115266d4792981d175ee5f9333
-https://pub06.20251020a.top/api/v1/client/subscribe?token=6432243484e47e2e909c353df9fbfcf4
+https://pub06.20251020a.top/api/v1/client/subscribe?token=ae9e18f9fefa126aabaab9c6d661ad4a
 https://pub06.20251020a.top/api/v1/client/subscribe?token=856891049899c67af5ba956b271095d1
 https://pub06.20251020a.top/api/v1/client/subscribe?token=b6c1d9f23633059e9d3be5d5613226a5
 https://pub06.20251020a.top/api/v1/client/subscribe?token=01523627cb86465f68bf67b85691011a
