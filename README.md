@@ -1,6 +1,6 @@
-# 2025 年 11 月 03 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅
+# 2025 年 11 月 04 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅
 
-> 📅 最新更新：2025 年 11 月 03 日，提供美国 / 香港 / 日本 等高质量免费节点，最高速率达 20.92 MB/s（共享，多人使用可能波动）
+> 📅 最新更新：2025 年 11 月 04 日，提供美国 / 香港 / 日本 等高质量免费节点，最高速率达 20.92 MB/s（共享，多人使用可能波动）
 ---
 
 ## 一、🎁 每日更新的免费订阅服务
@@ -28,21 +28,21 @@
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://pub06.20251020a.top/api/v1/client/subscribe?token=92ffa59cc2227c3cc92983bd9e428e7b
-https://pub06.20251020a.top/api/v1/client/subscribe?token=e007b17e55a4a1ea3ae3ea9019be1710
-https://pub06.20251020a.top/api/v1/client/subscribe?token=8c2bb030fee7eb88c493561cb9734630
-https://pub06.20251020a.top/api/v1/client/subscribe?token=16561878a05ef69cf1c3a8fcc7a50a42
-https://pub06.20251020a.top/api/v1/client/subscribe?token=38989fe56bd00d553e9d32bc64bd9ed8
-https://pub06.20251020a.top/api/v1/client/subscribe?token=014d1769823620a6e9ce2b32dc49d22c
-https://pub06.20251020a.top/api/v1/client/subscribe?token=3e6355373d2f277a2193865ec3c779b4
-https://pub06.20251020a.top/api/v1/client/subscribe?token=b3ab662b64ccb815e3ec8cd561c4c912
-https://pub06.20251020a.top/api/v1/client/subscribe?token=57c72e06ee5d143e48c963924aceba0d
-https://pub06.20251020a.top/api/v1/client/subscribe?token=87a02918c48b1b1cfe124dc3b4638c28
-https://pub06.20251020a.top/api/v1/client/subscribe?token=f92d41fc4bc7d494301ee8aef07c79ef
-https://pub06.20251020a.top/api/v1/client/subscribe?token=fb973dd178f032a7c067a5b3aa0e5344
-https://pub06.20251020a.top/api/v1/client/subscribe?token=7b51e1170e5c78097b39638f6bc51d1c
-https://pub06.20251020a.top/api/v1/client/subscribe?token=1b3ee2434a423c8926ccddf7e8f7530c
-https://pub06.20251020a.top/api/v1/client/subscribe?token=b9bca190fd529939fbe1b736a13be3e5
+https://851d903f8cdd.20251020a.top/api/v1/client/subscribe?token=92ffa59cc2227c3cc92983bd9e428e7b
+https://851d903f8cdd.20251020a.top/api/v1/client/subscribe?token=e007b17e55a4a1ea3ae3ea9019be1710
+https://851d903f8cdd.20251020a.top/api/v1/client/subscribe?token=8c2bb030fee7eb88c493561cb9734630
+https://851d903f8cdd.20251020a.top/api/v1/client/subscribe?token=16561878a05ef69cf1c3a8fcc7a50a42
+https://851d903f8cdd.20251020a.top/api/v1/client/subscribe?token=767931022129e5c2754d336439ef1923
+https://851d903f8cdd.20251020a.top/api/v1/client/subscribe?token=51b07f786e14359149c3d78f81284702
+https://851d903f8cdd.20251020a.top/api/v1/client/subscribe?token=eaf8bf0de483c47461e8d84f5386b2d5
+https://851d903f8cdd.20251020a.top/api/v1/client/subscribe?token=50763ba8d6539b053b6a64ef49724415
+https://851d903f8cdd.20251020a.top/api/v1/client/subscribe?token=f2e4a9e4b56fa43e67a3850d24ddd994
+https://851d903f8cdd.20251020a.top/api/v1/client/subscribe?token=87a02918c48b1b1cfe124dc3b4638c28
+https://851d903f8cdd.20251020a.top/api/v1/client/subscribe?token=f92d41fc4bc7d494301ee8aef07c79ef
+https://851d903f8cdd.20251020a.top/api/v1/client/subscribe?token=fb973dd178f032a7c067a5b3aa0e5344
+https://851d903f8cdd.20251020a.top/api/v1/client/subscribe?token=7b51e1170e5c78097b39638f6bc51d1c
+https://851d903f8cdd.20251020a.top/api/v1/client/subscribe?token=1b3ee2434a423c8926ccddf7e8f7530c
+https://851d903f8cdd.20251020a.top/api/v1/client/subscribe?token=b9bca190fd529939fbe1b736a13be3e5
 
 ```
 
