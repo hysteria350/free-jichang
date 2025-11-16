@@ -1,6 +1,6 @@
-# 2025 年 11 月 15 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅
+# 2025 年 11 月 16 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅
 
-> 📅 最新更新：2025 年 11 月 15 日，提供美国 / 香港 / 日本 等高质量免费节点，最高速率达 20.92 MB/s（共享，多人使用可能波动）
+> 📅 最新更新：2025 年 11 月 16 日，提供美国 / 香港 / 日本 等高质量免费节点，最高速率达 20.92 MB/s（共享，多人使用可能波动）
 ---
 
 ## 一、🎁 每日更新的免费订阅服务
@@ -41,7 +41,7 @@ https://fn02.20251117.top/api/v1/client/subscribe?token=06ed55430462c965c1bcf873
 https://fn02.20251117.top/api/v1/client/subscribe?token=307851b7600be1dca0f0750022f3b019
 https://fn02.20251117.top/api/v1/client/subscribe?token=345bf2f0eff749049b8e2a1cab540759
 https://fn02.20251117.top/api/v1/client/subscribe?token=6c4f3625333fd654c4e4669b4f41d039
-https://fn02.20251117.top/api/v1/client/subscribe?token=d43b7ae27aa159bf18f60d37a6ece2e9
+https://fn02.20251117.top/api/v1/client/subscribe?token=553253523de6fb9b4defceda3492fe34
 https://fn02.20251117.top/api/v1/client/subscribe?token=31602f9753abd02cabeeb9936b50a366
 
 ```
