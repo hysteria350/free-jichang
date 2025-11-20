@@ -1,6 +1,6 @@
-# 2025 年 11 月 19 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅
+# 2025 年 11 月 20 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅
 
-> 📅 最新更新：2025 年 11 月 19 日，提供美国 / 香港 / 日本 等高质量免费节点，最高速率达 20.92 MB/s（共享，多人使用可能波动）
+> 📅 最新更新：2025 年 11 月 20 日，提供美国 / 香港 / 日本 等高质量免费节点，最高速率达 20.92 MB/s（共享，多人使用可能波动）
 ---
 
 ## 一、🎁 每日更新的免费订阅服务
@@ -28,21 +28,21 @@
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://fn02.20251117.top/api/v1/client/subscribe?token=d3c0be271dabf320b87f5746b415d129
-https://fn02.20251117.top/api/v1/client/subscribe?token=f6e0b536b50e3f6b00c0f08369a4db73
-https://fn02.20251117.top/api/v1/client/subscribe?token=da53fc0fde85f902422f373d5b591ae3
+https://fn02.20251117.top/api/v1/client/subscribe?token=cf42d8057282a95dd5fa8f267746ce8f
+https://fn02.20251117.top/api/v1/client/subscribe?token=f778cddea13d2ea12729b3089f760b7e
+https://fn02.20251117.top/api/v1/client/subscribe?token=f0c58e1b322bca2fbeed6e62f029dd1b
 https://fn02.20251117.top/api/v1/client/subscribe?token=a149e535ae802a180d8f4bd1b4f581a2
-https://fn02.20251117.top/api/v1/client/subscribe?token=bccb5eacf904b00f32c553b2b951f844
+https://fn02.20251117.top/api/v1/client/subscribe?token=b7ea0370f0b4b3f9175635aa2b274890
 https://fn02.20251117.top/api/v1/client/subscribe?token=2f2e992083067625b552a5b0f0b13539
 https://fn02.20251117.top/api/v1/client/subscribe?token=1347fc94a9de080f93b73826ef077fb6
 https://fn02.20251117.top/api/v1/client/subscribe?token=31a0f437beaa2386ab7eb26b68e16715
 https://fn02.20251117.top/api/v1/client/subscribe?token=076e3d78e1a4c71a282a036edd763e54
 https://fn02.20251117.top/api/v1/client/subscribe?token=f922a16290d22ac5b9a09a6cc11b6988
-https://fn02.20251117.top/api/v1/client/subscribe?token=2b3966a0d5f90f091f4f661e4202138f
+https://fn02.20251117.top/api/v1/client/subscribe?token=b5930e23abdd47f585ee352f8ebb959e
 https://fn02.20251117.top/api/v1/client/subscribe?token=c9da4f63e81c6e7d41d7ad0fd5a9fd96
 https://fn02.20251117.top/api/v1/client/subscribe?token=04147a4865381a26b708dbabe179b9ea
 https://fn02.20251117.top/api/v1/client/subscribe?token=9ebf5170a31af1d2c64cfbbdd300afca
-https://fn02.20251117.top/api/v1/client/subscribe?token=aac5142ae854061a87e99ee8e247ed27
+https://fn02.20251117.top/api/v1/client/subscribe?token=8e820f116279720a968e2148b521100b
 
 ```
 
