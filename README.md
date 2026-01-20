@@ -1,6 +1,6 @@
-# 2026 年 01 月 19 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅
+# 2026 年 01 月 20 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅
 
-> 📅 最新更新：2026 年 01 月 19 日，提供美国 / 香港 / 日本 等高质量免费节点，最高速率达 20.92 MB/s（共享，多人使用可能波动）
+> 📅 最新更新：2026 年 01 月 20 日，提供美国 / 香港 / 日本 等高质量免费节点，最高速率达 20.92 MB/s（共享，多人使用可能波动）
 ---
 
 ## 一、🎁 每日更新的免费订阅服务
@@ -28,16 +28,16 @@
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://fn10.sp1230.top/s/319f18d9a896f4f3ddb7c13ada327d0b
-https://fn10.sp1230.top/s/24894ab427a7721486cd393892159dc0
+https://fn10.sp1230.top/s/55f99a6fd538ab28c6719d300f9dfe2a
+https://fn10.sp1230.top/s/e114c5e941a0fffe48a1895522afb65b
 https://fn10.sp1230.top/s/f03d18c3aae15ec049acd29329f0c685
-https://fn10.sp1230.top/s/6379bb7e04290cea313bff72c9f33fcf
+https://fn10.sp1230.top/s/bd25fac90095fc0b0f8e44b8aeec2972
 https://fn10.sp1230.top/s/d27b0cc55f146890459f0616dca3e097
 https://fn10.sp1230.top/s/04199734e29d97800158ed73ed365e3c
 https://fn10.sp1230.top/s/04c674bb15106f4478c4d424f5880f9b
 https://fn10.sp1230.top/s/6463476f656cb85d85877cd8d59e94e1
 https://fn10.sp1230.top/s/c877852199a73624001cb8bd153126ae
-https://fn10.sp1230.top/s/07c2ba38a88987fef8dd65a13cc6484c
+https://fn10.sp1230.top/s/36262acf9a355d06aa15065448227305
 https://fn10.sp1230.top/s/efd8d92806791367eeeaf53eb3e0615f
 https://fn10.sp1230.top/s/972d4ea26d2f955ab6913540221c1005
 https://fn10.sp1230.top/s/0a76bf00bb62a9b15fb9c3e4abee3487
