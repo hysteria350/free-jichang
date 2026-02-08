@@ -1,6 +1,6 @@
-# 2026 年 02 月 07 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅
+# 2026 年 02 月 08 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅
 
-> 📅 最新更新：2026 年 02 月 07 日，提供美国 / 香港 / 日本 等高质量免费节点，最高速率达 20.92 MB/s（共享，多人使用可能波动）
+> 📅 最新更新：2026 年 02 月 08 日，提供美国 / 香港 / 日本 等高质量免费节点，最高速率达 20.92 MB/s（共享，多人使用可能波动）
 ---
 
 ## 一、🎁 每日更新的免费订阅服务
@@ -28,22 +28,22 @@
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://fn10.sp1230.top/s/11d583129b696e3dbb448335b1efa05b
-https://fn10.sp1230.top/s/37353265316193d48df05acafcbcefd0
-https://fn10.sp1230.top/s/f87365f93071ec70083ac87f5a6dfac6
-https://fn10.sp1230.top/s/039de3733d5c9bbdaa251ef97ffdea73
-https://fn10.sp1230.top/s/31d146e90d8178c1d601aa703d36a428
-https://fn10.sp1230.top/s/956f827e800cb6effc38450c9ddbd7db
-https://fn10.sp1230.top/s/08c5c29da2749087b185e0f3f441694d
-https://fn10.sp1230.top/s/199bea2a1f145c85d5c9b7243c3e99d7
-https://fn10.sp1230.top/s/368367cd5ddb99322f5e1d91682f4e26
-https://fn10.sp1230.top/s/bdad713fd375653d03d759bd6ad838a9
-https://fn10.sp1230.top/s/9a685d37ccf6105a44fccd99e5dbc199
-https://fn10.sp1230.top/s/4f5e4a0838a45c51884f9a070602ab6a
-https://fn10.sp1230.top/s/f8e7739bf6005e23ad148f85634be2b5
-https://fn10.sp1230.top/s/16f5b65df6ba1b6a24db5db68ec5fd67
-https://fn10.sp1230.top/s/1874faac5ff2b9861233f6ebd5a335d5
-https://fn10.sp1230.top/s/277c5b6280a6a262ba44a04170ba5b4b
+https://fn10.sp1230.top/s/6788550a9d23428ed3f545632438fdc4
+https://fn10.sp1230.top/s/c63b707fcf9c146e90fa2b2306d9f011
+https://fn10.sp1230.top/s/477f50df26bcfd40bf70cfc99465ba4d
+https://fn10.sp1230.top/s/9475e594a11542ba40acd2b53869f089
+https://fn10.sp1230.top/s/e5b233369c61f5133d77c24d7b1d3b5e
+https://fn10.sp1230.top/s/59e74cd191063a2c04c810cf727ea182
+https://fn10.sp1230.top/s/958daad84433cea180b211e173ca124d
+https://fn10.sp1230.top/s/abc0ea30e5d6f8cafe657ff358dd3904
+https://fn10.sp1230.top/s/19a358923e64a882042f1e780012847c
+https://fn10.sp1230.top/s/b8dd7bc7fe6a13a3f40200bf7aba23e0
+https://fn10.sp1230.top/s/bdf67948aac5fedcef50c0fc335548bb
+https://fn10.sp1230.top/s/a600c8dc528152eb0e714e59ec28cf41
+https://fn10.sp1230.top/s/6d2df8b31bf689d69d6a025a1d0a0cad
+https://fn10.sp1230.top/s/882b8a1213c676ca68ccdd9990ed39b2
+https://fn10.sp1230.top/s/aa1de42013941b6e1819a4f7e9f29c37
+https://fn10.sp1230.top/s/8c111a04b991c6246645cffe12b0bc2b
 
 ```
 
