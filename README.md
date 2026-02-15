@@ -1,6 +1,6 @@
-# 2026 年 02 月 14 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅
+# 2026 年 02 月 15 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅
 
-> 📅 最新更新：2026 年 02 月 14 日，提供美国 / 香港 / 日本 等高质量免费节点，最高速率达 20.92 MB/s（共享，多人使用可能波动）
+> 📅 最新更新：2026 年 02 月 15 日，提供美国 / 香港 / 日本 等高质量免费节点，最高速率达 20.92 MB/s（共享，多人使用可能波动）
 ---
 
 ## 一、🎁 每日更新的免费订阅服务
@@ -28,22 +28,22 @@
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://fn10.sp1230.top/s/c4e7e66d89a19a13f7babcb6c70b1b2a
-https://fn10.sp1230.top/s/39c55c6dd7f09b8086a643951cba3d8f
-https://fn10.sp1230.top/s/ff3297d6abddf3abd120f05487d5d09b
-https://fn10.sp1230.top/s/f9c349ef4b1ca01b603be9fc8e2f0aca
-https://fn10.sp1230.top/s/796c80905b2bbeef661a45bcb6687277
-https://fn10.sp1230.top/s/8169fd946d559f4c6da875e93a4d30aa
-https://fn10.sp1230.top/s/cea5c8691ce5722fa55f442ccd8bbb67
-https://fn10.sp1230.top/s/b323a0ff7bd735e6211a5deafa6f7d18
-https://fn10.sp1230.top/s/40225cc4c22197e4fc001022e65f9ee1
-https://fn10.sp1230.top/s/6fc6b22480b0a3521d131237a81176be
-https://fn10.sp1230.top/s/3e2b3aea8cd43485fb4e64e37868ec3f
-https://fn10.sp1230.top/s/424735e2e5ff22d6ee5aee5f13526e7e
-https://fn10.sp1230.top/s/330b95f687b0661e60d962f0e3c18ddc
-https://fn10.sp1230.top/s/f545f4f5ad436e0a8b83d94a441e3ae9
-https://fn10.sp1230.top/s/68e478c0d690e02053ec036ae3b9acac
-https://fn10.sp1230.top/s/8d8e99898568220f6e203be6f9428f37
+https://fn10.sp1230.top/s/785312a2293344b9bf2b7e56b2de43f2
+https://fn10.sp1230.top/s/3b5fa4731324580de9836fa449a120fc
+https://fn10.sp1230.top/s/1f65a533f3dde733b8d7a2ced72ae2f0
+https://fn10.sp1230.top/s/119655c21d099c2a16ccec1a91396f8a
+https://fn10.sp1230.top/s/58fbe8f728cf3013a1d8432fbf98981c
+https://fn10.sp1230.top/s/263ff4d4ecb3849ea6ee8408ea2ccc57
+https://fn10.sp1230.top/s/877812a88d21898b696453aaa1293d74
+https://fn10.sp1230.top/s/e692b7cb6cf7f50491fbebf86bfaf857
+https://fn10.sp1230.top/s/7311fce53b11d10529a63bcefb3bdfde
+https://fn10.sp1230.top/s/ff34aba379973c3be80c607da6fbf046
+https://fn10.sp1230.top/s/d962a8f21c4f6a8bbc671ded12e32ae3
+https://fn10.sp1230.top/s/2c3989a41d0e3ad95bc0ebdc80fa897b
+https://fn10.sp1230.top/s/eeeb1a08ee9194ddf0e171709fc46d6c
+https://fn10.sp1230.top/s/a45b05db50ac199ac2e6706b0dd35f62
+https://fn10.sp1230.top/s/c6ba7d42a227f29e8103544665c6be08
+https://fn10.sp1230.top/s/2b6177829978bc5e608c7edf5994c26e
 
 ```
 
