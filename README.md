@@ -1,6 +1,6 @@
-# 2026 年 03 月 23 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅
+# 2026 年 03 月 24 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅
 
-> 📅 最新更新：2026 年 03 月 23 日，提供美国 / 香港 / 日本 等高质量免费节点，最高速率达 20.92 MB/s（共享，多人使用可能波动）
+> 📅 最新更新：2026 年 03 月 24 日，提供美国 / 香港 / 日本 等高质量免费节点，最高速率达 20.92 MB/s（共享，多人使用可能波动）
 ---
 
 ## 一、🎁 每日更新的免费订阅服务
@@ -29,19 +29,19 @@
 # V2ray订阅链接：
 
 https://fn08.sp0303.xyz/nodes/1fb616e501b1bc8623033c66e8855b33
-https://fn08.sp0303.xyz/nodes/918114c8b27388b163bde0441aca2ae6
-https://fn08.sp0303.xyz/nodes/be687eaf7d47fabb87b316ce4f1a2a32
+https://fn08.sp0303.xyz/nodes/aac36f06d7388c7aaa9dfeb78b289d0d
+https://fn08.sp0303.xyz/nodes/9641c974039f0595bb8bfbc13af2e5ff
 https://fn08.sp0303.xyz/nodes/56beeeb014663253d96eadaa3b938926
 https://fn08.sp0303.xyz/nodes/f81e3e83b825fe2c7fbc58ef80f3a60a
 https://fn08.sp0303.xyz/nodes/160a476b937e0f64a9147e04402e7b7e
-https://fn08.sp0303.xyz/nodes/6ec3bc085057274d7e6d298e459f22d2
+https://fn08.sp0303.xyz/nodes/822dcdc22a769ec338e70784d58f4069
 https://fn08.sp0303.xyz/nodes/c863b3f930f18a6bec8265a3eed80ef2
 https://fn08.sp0303.xyz/nodes/d351f325746683de85b10b6469df62e9
 https://fn08.sp0303.xyz/nodes/0c219839c37d03d5cc4de74570625b1d
-https://fn08.sp0303.xyz/nodes/cf87574041f1a4a11ebc534969f6f141
+https://fn08.sp0303.xyz/nodes/32658f573e6facb58d35b3e1481f7fb4
 https://fn08.sp0303.xyz/nodes/c52ed4cc195cbbf44dbfc9acfb4640a2
-https://fn08.sp0303.xyz/nodes/e3ce706e503f55065376e56f6766b186
-https://fn08.sp0303.xyz/nodes/d812c6aaab4cb7aafd885ecdaebe194c
+https://fn08.sp0303.xyz/nodes/ae894e26b88466f42bacb1651efe6a7d
+https://fn08.sp0303.xyz/nodes/3c2b4f9b4a907dd4e084b5dd6585127b
 https://fn08.sp0303.xyz/nodes/446204d6669527ce51268aaa5523241f
 
 ```
