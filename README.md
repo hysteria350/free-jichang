@@ -1,6 +1,6 @@
-# 2026 年 05 月 25 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅
+# 2026 年 05 月 27 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅
 
-> 📅 最新更新：2026 年 05 月 25 日，提供美国 / 香港 / 日本 等高质量免费节点，最高速率达 20.92 MB/s（共享，多人使用可能波动）
+> 📅 最新更新：2026 年 05 月 27 日，提供美国 / 香港 / 日本 等高质量免费节点，最高速率达 20.92 MB/s（共享，多人使用可能波动）
 ---
 
 ## 一、🎁 每日更新的免费订阅服务
@@ -28,23 +28,23 @@
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://fn09.sp0502.xyz/nodes/26b2185c3bc64e003f61edc3bdd619f4
-https://fn09.sp0502.xyz/nodes/6cab2eccbdabcd0cdac21f508daf0cdc
-https://fn09.sp0502.xyz/nodes/147384aa4430fc025bb2c87bef1ec630
-https://fn09.sp0502.xyz/nodes/48fdf6f7d205f848e7df38e907bf0cfd
-https://fn09.sp0502.xyz/nodes/cdd27fe8e663e48f5f3fc305c33ba32f
-https://fn09.sp0502.xyz/nodes/c853c6a9c118452bb0ac4393ceab93a2
-https://fn09.sp0502.xyz/nodes/8925d5dbb444a146d5b7e61cadff5ee3
-https://fn09.sp0502.xyz/nodes/6080a3477693864dbe7d013d87f952d7
-https://fn09.sp0502.xyz/nodes/5b436495fd345a06e0f61369d386b98a
-https://fn09.sp0502.xyz/nodes/948cfad8631645b612df716f15d45ef3
-https://fn09.sp0502.xyz/nodes/3c3f4bf3f9117976756672315d94f989
-https://fn09.sp0502.xyz/nodes/07f098d28f5850409dcb2e235737d52f
-https://fn09.sp0502.xyz/nodes/fc997e0644b339e39d7b3197fdc62068
-https://fn09.sp0502.xyz/nodes/3e5dd5a7a1b449ceecffb0648e0e7939
-https://fn09.sp0502.xyz/nodes/435ad65a759c1dd1598cae0e4a4af8d5
-https://fn09.sp0502.xyz/nodes/159858263c174a687ecfd8218bdbf7b8
-https://fn09.sp0502.xyz/nodes/cef049bd47863df1ea06e825edf0808f
+https://fn09.sp0502.xyz/nodes/b62564358b90c959d3251ab137736d94
+https://fn09.sp0502.xyz/nodes/2d6a698398f0c63656e19263e4469ce3
+https://fn09.sp0502.xyz/nodes/25ca32fa01d75c39f2407885f6e68b58
+https://fn09.sp0502.xyz/nodes/5afbe570a62ab360fb329969b821fadd
+https://fn09.sp0502.xyz/nodes/ab47d5843c231f98189544b9c55135d0
+https://fn09.sp0502.xyz/nodes/7f7b8c4835d845a69f1c7129692b92fb
+https://fn09.sp0502.xyz/nodes/d633508d7ac3c7cc98e30cae7f72fad6
+https://fn09.sp0502.xyz/nodes/cec8c60d75c6733725d039b1110685b8
+https://fn09.sp0502.xyz/nodes/44fb598eadd615f48bd9c9cfbbf1bae5
+https://fn09.sp0502.xyz/nodes/b071ebb530c7c470b8d2435f8857bea5
+https://fn09.sp0502.xyz/nodes/e6576067ae4e558ad2d45e9682cfba56
+https://fn09.sp0502.xyz/nodes/87eaa5dfe90dd94af2cdbd2256f445ed
+https://fn09.sp0502.xyz/nodes/addb6652379dc3515490f09553937b5f
+https://fn09.sp0502.xyz/nodes/b811eff431fc5d5184f63cf3b28fea56
+https://fn09.sp0502.xyz/nodes/dc8c00dfaa9f6d579758d81bd0892d0e
+https://fn09.sp0502.xyz/nodes/ca7b062eb482d0af8bb2c47cf33fe84c
+https://fn09.sp0502.xyz/nodes/1915ad8422a412151f4248ba2d59dd46
 
 ```
 
