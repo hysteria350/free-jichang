@@ -1,6 +1,6 @@
-# 2026 年 09 月 17 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅
+# 2026 年 09 月 18 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅
 
-> 📅 最新更新：2026 年 09 月 17 日，提供美国 / 香港 / 日本 等高质量免费节点，最高速率达 20.92 MB/s（共享，多人使用可能波动）
+> 📅 最新更新：2026 年 09 月 18 日，提供美国 / 香港 / 日本 等高质量免费节点，最高速率达 20.92 MB/s（共享，多人使用可能波动）
 ---
 
 ## 一、🎁 每日更新的免费订阅服务
@@ -28,23 +28,23 @@
 # 如果以下订阅过期，请在免费机场页面 https://v2raya.net/categories/free-nodes/ 查询并使用最新订阅地址
 # V2ray订阅链接：
 
-https://ndxy.fn0821.xyz/nodes/2e34a6e108d90ea59047e1083b06b582
-https://ndxy.fn0821.xyz/nodes/097ea7e5297296b10f254f1ba794d9ca
-https://ndxy.fn0821.xyz/nodes/9c2e69fe9522a8b81f8300e1f8463fd2
-https://ndxy.fn0821.xyz/nodes/0e303316961361d07752492c22a394f7
-https://ndxy.fn0821.xyz/nodes/3e33ae0b7b64a3571757ad0a903cef3d
-https://ndxy.fn0821.xyz/nodes/6ace8453c90fb21cfa5c867c87f38335
-https://ndxy.fn0821.xyz/nodes/2508f3b2d397cf1b0286f1e360d9c00f
-https://ndxy.fn0821.xyz/nodes/ac0b95afda08a8cbaf08cbfc4afb6780
-https://ndxy.fn0821.xyz/nodes/e0929572f8561aade3198b394893a202
-https://ndxy.fn0821.xyz/nodes/7cd1ddc5b383011d0b713914597873a9
-https://ndxy.fn0821.xyz/nodes/0f09cd4333fb4e9bee341fb3daed5153
-https://ndxy.fn0821.xyz/nodes/59d1621d1290839f11394e5a4bf020f5
-https://ndxy.fn0821.xyz/nodes/588f4ae43a4494f8a85e666069346d05
-https://ndxy.fn0821.xyz/nodes/e1f1586021378f1e81585f92495d812b
-https://ndxy.fn0821.xyz/nodes/ed81cf32e5921bd8ea096513d9af10a4
-https://ndxy.fn0821.xyz/nodes/6507b91ae9504efc20ba5a5005c6714b
-https://ndxy.fn0821.xyz/nodes/de1b98605511e5ac9fdec840bdd7cef8
+https://ndxy.fn0821.xyz/nodes/45cb2a7f454dde86c433c89cdd927008
+https://ndxy.fn0821.xyz/nodes/2769b58dfabeca653b0684e5a945800a
+https://ndxy.fn0821.xyz/nodes/857f25984d0994adc1f72285e5d578b3
+https://ndxy.fn0821.xyz/nodes/48b58173b2b4d1cd6b1996e578517c82
+https://ndxy.fn0821.xyz/nodes/7e7b5c1dbb2f56d0b9add72fc519762c
+https://ndxy.fn0821.xyz/nodes/0c6ab90b2b459ca8fe978a191bd984b7
+https://ndxy.fn0821.xyz/nodes/fcfbe8ad6cee2a0a21730c4c8dbe3ae8
+https://ndxy.fn0821.xyz/nodes/1978d598498c4d4d047a2c664733b304
+https://ndxy.fn0821.xyz/nodes/e988799faced505e09489a9197eec649
+https://ndxy.fn0821.xyz/nodes/149f36a2199cb785ec224eba6073cbab
+https://ndxy.fn0821.xyz/nodes/b6b63ef7e74bc8d4faabbcdebc0c9a3d
+https://ndxy.fn0821.xyz/nodes/f9f14d1fc527a60b91c8bf2e2fbc93c7
+https://ndxy.fn0821.xyz/nodes/1c711f435436bf572f3ab3a96b0918c3
+https://ndxy.fn0821.xyz/nodes/50efa5e832c05f05ad28360ae3521414
+https://ndxy.fn0821.xyz/nodes/a88543a81505fa2e3a07abd947133eed
+https://ndxy.fn0821.xyz/nodes/c5723ae6ec91cb2be5661cf281397735
+https://ndxy.fn0821.xyz/nodes/9947ae84094ca8593e9cd31e729f9ad7
 
 ```
 
