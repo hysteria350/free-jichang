@@ -1,6 +1,6 @@
-# 2026 年 09 月 21 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅
+# 2026 年 09 月 22 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅
 
-> 📅 最新更新：2026 年 09 月 21 日，提供美国 / 香港 / 日本 等高质量免费节点，最高速率达 20.92 MB/s（共享，多人使用可能波动）
+> 📅 最新更新：2026 年 09 月 22 日，提供美国 / 香港 / 日本 等高质量免费节点，最高速率达 20.92 MB/s（共享，多人使用可能波动）
 ---
 
 ## 一、🎁 每日更新的免费订阅服务
@@ -31,13 +31,13 @@
 https://ndxy.fn0821.xyz/nodes/974bc25e5aa005a4b7b2677f6cf49d63
 https://ndxy.fn0821.xyz/nodes/de5d4c5e28be56f3f4228dcfe5bba239
 https://ndxy.fn0821.xyz/nodes/35596532bdd697c5162eeae0a98cb9e2
-https://ndxy.fn0821.xyz/nodes/5160ee60b2007b86016f2e13c5d7d9aa
+https://ndxy.fn0821.xyz/nodes/f6a23f1b9221c03f9821872962e68af3
 https://ndxy.fn0821.xyz/nodes/c1d909b4fba7d81f08fad972beb01759
 https://ndxy.fn0821.xyz/nodes/52326ebb53b2443541757fba39059493
-https://ndxy.fn0821.xyz/nodes/81f43ac439fa80720cca509ca314e6f7
+https://ndxy.fn0821.xyz/nodes/42081160af7a7f298d39bad17393eeea
 https://ndxy.fn0821.xyz/nodes/05471156bbcd0adc167c712cb153613d
 https://ndxy.fn0821.xyz/nodes/384ec0ec840f676ef64039f1aea3a446
-https://ndxy.fn0821.xyz/nodes/74ccd3e09e27b5cb8852d535c7cd5069
+https://ndxy.fn0821.xyz/nodes/b590e5fdc8728a65f38854b8b7d77e8c
 https://ndxy.fn0821.xyz/nodes/1d1ebf850a93526b483cebb4b7dd2998
 https://ndxy.fn0821.xyz/nodes/e37db9a1107914927cf98b072c3155b0
 https://ndxy.fn0821.xyz/nodes/93005e7f2ea48be33e21ff92bce4f11e
