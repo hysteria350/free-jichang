@@ -1,6 +1,6 @@
-# 2026 年 10 月 03 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅
+# 2026 年 10 月 04 日免费公益 V2ray/Trojan/SS/Vless/Hysteria2 节点订阅
 
-> 📅 最新更新：2026 年 10 月 03 日，提供美国 / 香港 / 日本 等高质量免费节点，最高速率达 20.92 MB/s（共享，多人使用可能波动）
+> 📅 最新更新：2026 年 10 月 04 日，提供美国 / 香港 / 日本 等高质量免费节点，最高速率达 20.92 MB/s（共享，多人使用可能波动）
 ---
 
 ## 一、🎁 每日更新的免费订阅服务
@@ -36,7 +36,7 @@ https://ndxy.fn0821.xyz/nodes/d5faf02e83a83b695969aacbefd84422
 https://ndxy.fn0821.xyz/nodes/1b3a308642ab399a79384ad325f9626d
 https://ndxy.fn0821.xyz/nodes/c94e629365ab9c72a6fac4fa123f80b9
 https://ndxy.fn0821.xyz/nodes/5dbd946f6045b60b90dd44ef053207e7
-https://ndxy.fn0821.xyz/nodes/fb0693c97fbf590a85dc4fb973c06684
+https://ndxy.fn0821.xyz/nodes/f91f692d3227a913f3b5f438765d8dea
 https://ndxy.fn0821.xyz/nodes/6a7ab2df42c7b3450f810d0754be0c5c
 https://ndxy.fn0821.xyz/nodes/27356fff93d5bb01b0a53f58274b2429
 https://ndxy.fn0821.xyz/nodes/09bbb79ada7db468f258b584986b0680
